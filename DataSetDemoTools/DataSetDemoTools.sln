@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSetDemoTools", "DataSetDemoTools\DataSetDemoTools.csproj", "{844EA644-23B2-4AD2-95CE-CB6C4F8030FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844EA644-23B2-4AD2-95CE-CB6C4F8030FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844EA644-23B2-4AD2-95CE-CB6C4F8030FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844EA644-23B2-4AD2-95CE-CB6C4F8030FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844EA644-23B2-4AD2-95CE-CB6C4F8030FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C29DBB7A-2D72-47D3-9B2E-E5F6C5654072}
+	EndGlobalSection
+EndGlobal

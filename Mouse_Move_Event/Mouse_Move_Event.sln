@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mouse_Move_Event", "Mouse_Move_Event\Mouse_Move_Event.csproj", "{DA55B9CF-FA6C-40ED-9E10-5BC91E161042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA55B9CF-FA6C-40ED-9E10-5BC91E161042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA55B9CF-FA6C-40ED-9E10-5BC91E161042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA55B9CF-FA6C-40ED-9E10-5BC91E161042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA55B9CF-FA6C-40ED-9E10-5BC91E161042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B7A0D9-21A5-49CA-B7DA-03FBE884761E}
+	EndGlobalSection
+EndGlobal
