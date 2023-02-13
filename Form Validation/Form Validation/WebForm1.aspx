@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-         name :   <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+         name :   <asp:TextBox ID="TextBox1" runat="server" style="position: relative; top: 1px; left: -4px; height: 11px"></asp:TextBox>
             <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="TextBox1" ErrorMessage="RegularExpressionValidator"></asp:RegularExpressionValidator>
         </div>
         email: <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
@@ -23,6 +23,7 @@
         Range:    <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
             <asp:RangeValidator ID="RangeValidator1" runat="server" ControlToValidate="TextBox5" ErrorMessage="RangeValidator" MaximumValue="555" MinimumValue="0"></asp:RangeValidator>
         </p>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
     </form>
 </body>
 </html>
